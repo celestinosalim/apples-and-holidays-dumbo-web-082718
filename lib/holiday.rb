@@ -30,9 +30,6 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
   winter_supplies(holiday_supplies)
   binding.pry
 
-
-
-
 end
 
 
