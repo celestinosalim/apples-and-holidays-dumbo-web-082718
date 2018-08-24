@@ -42,9 +42,10 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
       :memorial_day => ["BBQ"]
     }
   }
-  
+
   winter_supplies(holiday_supplies)
 
+binding.pry
 
 end
 
