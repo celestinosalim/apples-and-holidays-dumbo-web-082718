@@ -42,6 +42,8 @@ holiday_hash = {
     }
   }
 
+  binding.pry
+
   winter_supplies(holiday_supplies)
 
 binding.pry
